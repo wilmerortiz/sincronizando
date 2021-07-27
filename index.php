@@ -16,6 +16,7 @@
             <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Item 2</a>
         </li>
     </nav>
+    <p>Practicando con gitkraken</p>
 </body>
 </html>
 
